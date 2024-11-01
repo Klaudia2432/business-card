@@ -1,0 +1,14 @@
+body {
+    background-color: rebeccapurple;
+}
+
+.business__card {
+    background-color: #fff;
+    width: 616px;
+    height: 262px;
+}
+
+.business__card--avatar {
+    width: 148px;
+    height: 148px;
+}
